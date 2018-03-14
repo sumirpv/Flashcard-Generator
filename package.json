@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Overview In this application, I create a basic, command-line flashcard. This flashcard objects was  created using constructors. There are two types of flashcards:",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumirpv/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumirpv/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/sumirpv/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
